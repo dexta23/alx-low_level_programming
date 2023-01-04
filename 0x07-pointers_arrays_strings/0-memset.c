@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+
+=======
 #include "main.h"
 /**
  * _memset - function fill the first @n bytes of the memory
@@ -18,3 +21,4 @@ char *_memset(char *s, char b, unsigned int n)
 	}
 	return (s);
 }
+>>>>>>> 1d04df43b0ef561ad282b4693de25021bfcfebb8
